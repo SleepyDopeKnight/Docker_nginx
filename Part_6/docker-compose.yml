@@ -1,0 +1,9 @@
+services:
+  container1:
+    image: part_6_container1:1.0
+    build: ../Part_5/.
+  container2:
+    image: part_6_container2:1.0
+    build: .
+    ports:
+    - "80:8080"
