@@ -8,12 +8,12 @@
 1. [Chapter I](#chapter-i)
 2. [Chapter II](#chapter-ii)
 3. [Chapter III](#chapter-iii) \
-    3.1. [Готовый докер](#part-1-готовый-докер) \
-    3.2. [Операции с контейнером](#part-2-операции-с-контейнером) \
-    3.3. [Мини веб-сервер](#part-3-мини-веб-сервер) \
-    3.4. [Свой докер](#part-4-свой-докер) \
-    3.5. [Dockle](#part-5-dockle) \
-    3.6. [Базовый Docker Compose](#part-6-базовый-docker-compose)
+    3.1. [Part 1. Готовый докер](#part-1-готовый-докер) \
+    3.2. [Part 2. Операции с контейнером](#part-2-операции-с-контейнером) \
+    3.3. [Part 3. Мини веб-сервер](#part-3-мини-веб-сервер) \
+    3.4. [Part 4. Свой докер](#part-4-свой-докер) \
+    3.5. [Part 5. Dockle](#part-5-dockle) \
+    3.6. [Part 6. Базовый Docker Compose](#part-6-базовый-docker-compose)
 
 
 ## Chapter I

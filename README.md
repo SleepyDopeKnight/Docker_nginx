@@ -9,12 +9,12 @@ The russian version of the task can be found in the repository.
 1. [Chapter I](#chapter-i)
 2. [Chapter II](#chapter-ii)
 3. [Chapter III](#chapter-iii) \
-    3.1. [Ready-made docker](#part-1-ready-made-docker) \
-    3.2. [Operations with container](#part-2-operations-with-container) \
-    3.3. [Mini web server](#part-3-mini-web-server) \
-    3.4. [Your own docker](#part-4-your-own-docker) \
-    3.5. [Dockle](#part-5-dockle) \
-    3.6. [Basic Docker Compose](#part-6-basic-docker-compose)
+    3.1. [Part 1. Ready-made docker](#part-1-ready-made-docker) \
+    3.2. [Part 2. Operations with container](#part-2-operations-with-container) \
+    3.3. [Part 3. Mini web server](#part-3-mini-web-server) \
+    3.4. [Part 4. Your own docker](#part-4-your-own-docker) \
+    3.5. [Part 5. Dockle](#part-5-dockle) \
+    3.6. [Part 6. Basic Docker Compose](#part-6-basic-docker-compose)
 
 
 ## Chapter I
