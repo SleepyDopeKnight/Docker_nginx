@@ -35,4 +35,4 @@ WORKDIR /home/
 
 USER jojo
 HEALTHCHECK NONE
-ENTRYPOINT ["./run.sh"]
+CMD ["./run.sh"]

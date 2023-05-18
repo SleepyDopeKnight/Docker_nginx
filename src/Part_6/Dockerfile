@@ -32,5 +32,5 @@ WORKDIR /home/
 
 USER jojo
 HEALTHCHECK NONE
-ENTRYPOINT ["./run.sh"]
-
+# run nginx as a non-daemon process
+CMD ["nginx", "-g", "daemon off;"]

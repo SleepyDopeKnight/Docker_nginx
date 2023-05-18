@@ -10,6 +10,5 @@ RUN \
     apt install -y libfcgi-dev && \
     apt install -y gcc && \
     chmod 777 run.sh
-
-ENTRYPOINT ["/run.sh"]
+CMD ["/run.sh"]
 
